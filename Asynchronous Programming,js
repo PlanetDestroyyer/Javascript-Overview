@@ -1,0 +1,4 @@
+// Asynchronous code with setTimeout
+setTimeout(function() {
+    console.log("This code executes after 3 seconds");
+}, 3000);
